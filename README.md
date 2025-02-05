@@ -1,1 +1,1 @@
-https://github.com/EvgenyKoshelenko/MyFirstProject
+https://github.com/EvgenyKoshelenko/ono-tebe-nado-fd.git
