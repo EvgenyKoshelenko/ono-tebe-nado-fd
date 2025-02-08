@@ -40,7 +40,7 @@
   height: 105px;
 }
 
-.header__address {
+.address {
   font-size: 18px;
   justify-self: end;
   line-height: 135%;
@@ -182,19 +182,11 @@
 }
 
 .card_type_book {
-  height: 100%;
-  background-size: cover;
-  background-position: center;
   background-image: url(../images/card-lot-02.jpg);
-  z-index: 0;
 }
 
 .card_type_picture {
-  height: 100%;
-  background-size: cover;
-  background-position: center;
   background-image: url(../images/card-lot-03.jpg);
-  z-index: 0;
 }
 
 .card__title {
@@ -258,6 +250,7 @@
   text-transform: uppercase;
   margin-bottom: 100px;
 }
+
 .about__text {
   font-weight: 400;
   font-size: 20px;
